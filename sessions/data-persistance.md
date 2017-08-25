@@ -1,2 +1,2 @@
-# Open Session: Data Persistance
-## Vivien, Marcus
+# Open Session: Data Persistance on Android
+## Vivien, Markus
